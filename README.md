@@ -19,7 +19,7 @@ I hold a master's degree in Internet of Things & Internet Technologies and a bac
 
 **IoT & Embedded:** Raspberry Pi, Arduino, MQTT, AWS IoT, sensors & microcontrollers
 
-**Cloud & Infrastructure:** AWS, Linux, Docker, Terraform
+**Cloud & Infrastructure:** AWS, Linux, Docker, Terraform, Familiar with Azure
 
 **Web & APIs:** Flask, Dash, Streamlit, REST APIs
 
@@ -32,6 +32,8 @@ I hold a master's degree in Internet of Things & Internet Technologies and a bac
 
 ### Education
 - **M.S. in Internet of Things & Internet Technologies**
+    - Degree requirements completed; conferral expected December 2026
+    - GPA: 4.0/4.0
 - **B.S. in Computer Technology — Internet Technologies**
 
 ### Certifications
