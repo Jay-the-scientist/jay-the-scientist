@@ -6,7 +6,7 @@ I build intelligent systems that connect **data, software, AI, and physical tech
 
 My work spans machine learning, generative AI, data analytics, IoT systems, embedded development, and cloud technologies — with projects ranging from RAG-based AI assistants and predictive models to environmental monitoring systems and Arduino-based hardware.
 
-I hold a master's degree in Internet of Things & Internet Technologies and a bachelor's degree in Computer Technology, with additional training in data science, solar technology and cybersecurity.
+I completed the requirements for my master's degree in Internet of Things & Internet Technologies pending conferral in December 2026 and hold a bachelor's degree in computer technology, with additional training in data science, solar technology and cybersecurity.
 
 
 ## 🛠️ Technical Skills
