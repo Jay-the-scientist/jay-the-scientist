@@ -23,6 +23,10 @@ I hold a master's degree in Internet of Things & Internet Technologies and a bac
 
 **Web & APIs:** Flask, Dash, Streamlit, REST APIs
 
+## 🏆 Achievements
+
+- **2nd Place — FICO Educational Analytics Challenge 2025** — Team developed the highest-scoring model in the competition among teams from four participating universities.
+- **Dean's List — 2021** — Recognized for academic achievement during B.S. studies.
 
 ## 🎓 Education & Certifications
 
