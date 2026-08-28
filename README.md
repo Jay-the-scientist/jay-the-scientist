@@ -33,6 +33,8 @@ I hold a master's degree in Internet of Things & Internet Technologies and a bac
 ### Certifications
 - **IBM Data Science Professional Certificate** — IBM
 - **CompTIA Security+** — Previously certified; certification expired
+- **CompTIA A+** — Previously certified; certification expired
+
 
 ## 📚 Professional Training
 - **Solar PV System Design & Installation Training** — HBCU B.E.S.T. / NABCEP-aligned program, 90 hours
