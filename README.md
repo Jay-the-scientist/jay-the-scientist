@@ -21,15 +21,15 @@ That perspective influences how I approach technology more broadly. I see data a
 
 **Programming:** Python, SQL, C++, JavaScript, Bash
 
-**AI & Machine Learning:** scikit-learn, RAG, LLMs, semantic search, vector databases, prompt engineering
+**AI & Machine Learning:** Machine Learning, Generative AI, NLP, LLMs, RAG, scikit-learn, XGBoost, embeddings, semantic search, vector databases, prompt engineering
 
-**Data & Analytics:** Pandas, NumPy, PostgreSQL, MySQL, MongoDB, Plotly, Matplotlib, Grafana
+**Data & Analytics:** Pandas, NumPy, PostgreSQL, MySQL, MongoDB, data visualization, Plotly, Matplotlib, Grafana
 
-**IoT & Embedded:** Raspberry Pi, Arduino, MQTT, AWS IoT, sensors & microcontrollers
+**IoT & Embedded:** Internet of Things (IoT), embedded systems, Raspberry Pi, Arduino, MQTT, AWS IoT, sensors & microcontrollers
 
-**Cloud & Infrastructure:** AWS, Linux, Docker, Terraform, familiarity with Azure
+**Cloud & Infrastructure:** AWS, Linux, Docker, Terraform, cloud computing, familiarity with Azure
 
-**Web & APIs:** Flask, Dash, Streamlit, REST APIs
+**Web, APIs & Development:** HTML/CSS, JavaScript, Tailwind CSS, Flask, Dash, Streamlit, REST API integration, Git/GitHub
 
 ## 🏆 Selected Highlights
 
