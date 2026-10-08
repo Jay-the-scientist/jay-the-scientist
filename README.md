@@ -1,5 +1,5 @@
 # Hi, I'm Jarell 👋
-[LinkedIn](https://www.linkedin.com/in/j-washington/)
+My [LinkedIn](https://www.linkedin.com/in/j-washington/) 
 
 ### AI • Data Science • IoT • Intelligent Systems
 
