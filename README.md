@@ -1,5 +1,6 @@
 # Hi, I'm Jarell 👋
-My [LinkedIn](https://www.linkedin.com/in/j-washington/) 
+
+My [LinkedIn](https://www.linkedin.com/in/j-washington/)
 
 ### AI • Data Science • IoT • Intelligent Systems
 
@@ -17,39 +18,48 @@ One of the experiences that first made data science click for me was a team anal
 
 That perspective influences how I approach technology more broadly. I see data as a way to understand problems, AI as a tool for expanding what people can create and accomplish, and IoT as a bridge between software and the physical world.
 
+## 📊 Technical Experience at a Glance
+
+My experience combines **professional work, academic research, technical training, and independent project development** across multiple disciplines.
+
+| Technical Area | Hands-On Experience |
+|---|---|
+| Data Analytics & Visualization | **4+ years** |
+| Python Programming | **3+ years** |
+| SQL & Relational Databases | **3+ years** |
+| Web & Application Development | **3+ years** |
+| AI & Machine Learning | **2+ years** |
+| IoT & Embedded Systems | **2+ years** |
+| Linux & Systems Administration | **2+ years** |
+| Business Intelligence & Reporting | **2+ years** |
+| AWS & Cloud Technologies | **1+ year** |
+| NLP, LLMs & Retrieval-Augmented Generation | **1+ year** |
+| Data Extraction & Transformation Workflows | **1+ year** |
+
+*Experience estimates reflect cumulative hands-on learning and application across employment, coursework, research, and personal projects, not exclusively full-time professional employment. Several areas overlap.*
+
 ## 🛠️ Technical Skills
 
-**Programming:** Python, SQL, C++, JavaScript, Bash
+**Programming & Development:** Python, SQL, C/C++, Java, JavaScript, Bash, HTML/CSS, Git/GitHub
 
-**AI & Machine Learning:** Machine Learning, Generative AI, NLP, LLMs, RAG, scikit-learn, XGBoost, embeddings, semantic search, vector databases, prompt engineering
+**AI & Machine Learning:** Machine Learning, Generative AI, NLP, LLMs, RAG, scikit-learn, XGBoost, PyTorch, Hugging Face, embeddings, semantic search, vector databases, prompt engineering
 
-**Data & Analytics:** Pandas, NumPy, PostgreSQL, MySQL, MongoDB, data visualization, Plotly, Matplotlib, Grafana
+**Data & Analytics:** Pandas, NumPy, PostgreSQL, MySQL, SQLite, MongoDB, data cleaning and transformation, exploratory data analysis, statistical analysis, data visualization, Plotly, Matplotlib, Grafana, Infor Birst
 
-**IoT & Embedded:** Internet of Things (IoT), embedded systems, Raspberry Pi, Arduino, MQTT, AWS IoT, sensors & microcontrollers
+**IoT & Embedded Systems:** Internet of Things (IoT), embedded systems, Raspberry Pi, Arduino, MQTT, AWS IoT Core, sensors, microcontrollers, hardware-software integration
 
-**Cloud & Infrastructure:** AWS, Linux, Docker, Terraform, cloud computing, familiarity with Azure
+**Cloud & Infrastructure:** AWS, Linux, Docker, Terraform, Ansible, networking fundamentals, cloud computing, familiarity with Azure
 
-**Web, APIs & Development:** HTML/CSS, JavaScript, Tailwind CSS, Flask, Dash, Streamlit, REST API integration, Git/GitHub
+**Web, APIs & Applications:** JavaScript, Tailwind CSS, Flask, Dash, Streamlit, REST API integration, web scraping, JSON
 
 ## 🏆 Selected Highlights
 
-* **2nd Place — FICO Educational Analytics Challenge 2025**
-  Collaborated on an AI/analytics solution for bank collection interactions. Our team developed the highest-scoring model among teams representing four participating universities.
-
-* **Entrepreneurship & Venture Development**
-  Participated in business accelerators and venture development programs, developing and presenting original business concepts — including presenting a venture at the **National Museum of African American History and Culture**.
-
-* **Published Children's Book**
-  Created and independently published a children's book, then built its supporting website and promotional materials and led outreach through pop-up events, libraries, and direct marketing — taking the project from creative concept to a public-facing product.
-
-* **Creative Entrepreneurship**
-  Turned original artwork into a clothing brand, building its website and social presence while managing branding, marketing, promotion, and sales — taking the idea from initial design through launch and customer engagement.
-
-* **AI Startup Strategy & Development**
-  Supported an early-stage AI startup across business strategy, technology positioning, web presence, and marketing, working across technical and operational needs as the venture developed.
-
-* **Dean's List — 2021**
-  Recognized for academic achievement during my undergraduate studies.
+- **2nd Place — FICO Educational Analytics Challenge 2025** Collaborated on an AI/analytics solution for bank collection interactions. Our team developed the highest-scoring model among teams representing four participating universities.
+- **Entrepreneurship & Venture Development** Participated in business accelerators and venture development programs, developing and presenting original business concepts — including presenting a venture at the **National Museum of African American History and Culture**.
+- **Published Children's Book** Created and independently published a children's book, then built its supporting website and promotional materials and led outreach through pop-up events, libraries, and direct marketing — taking the project from creative concept to a public-facing product.
+- **Creative Entrepreneurship** Turned original artwork into a clothing brand, building its website and social presence while managing branding, marketing, promotion, and sales — taking the idea from initial design through launch and customer engagement.
+- **AI Startup Strategy & Development** Supported an early-stage AI startup across business strategy, technology positioning, web presence, and marketing, working across technical and operational needs as the venture developed.
+- **Dean's List — 2021** Recognized for academic achievement during my undergraduate studies.
 
 ## 🎓 Education & Certifications
 
@@ -57,17 +67,17 @@ That perspective influences how I approach technology more broadly. I see data a
 
 **M.S. in Internet of Things & Internet Technologies**
 
-* Degree requirements completed; conferral expected December 2026
-* GPA: **4.0/4.0**
+- Degree requirements completed; conferral expected December 2026
+- GPA: **4.0/4.0**
 
 **B.S. in Computer Technology — Internet Technologies**
 
 ### Certifications & Training
 
-* **IBM Data Science Professional Certificate** — IBM
-* **Solar PV System Design & Installation Training** — HBCU B.E.S.T. / NABCEP-aligned program, 90 hours
-* **CompTIA Security+** — Previously certified
-* **CompTIA A+** — Previously certified
+- **IBM Data Science Professional Certificate** — IBM
+- **Solar PV System Design & Installation Training** — HBCU B.E.S.T. / NABCEP-aligned program, 90 hours
+- **CompTIA Security+** — Previously certified
+- **CompTIA A+** — Previously certified
 
 ## 💡 Beyond the Code
 
