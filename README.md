@@ -14,7 +14,7 @@ What excites me most about technology is **what it makes possible**. I'm particu
 
 ## 🔎 How I Think About Technology
 
-One of the experiences that first made data science click for me was a team analysis exploring the relationship between **poverty and educational outcomes**. Seeing patterns emerge from data showed me that analysis isn't just about numbers — data can tell a story, reveal relationships, and provide evidence for where attention and action may be needed.
+One of the experiences that first made data science click for me was a team analysis exploring the relationship between **poverty and educational outcomes**. Seeing patterns emerge from data showed me that analysis isn't just about numbers.. data can tell a story, reveal relationships, and provide evidence for where attention and action may be needed.
 
 That perspective influences how I approach technology more broadly. I see data as a way to understand problems, AI as a tool for expanding what people can create and accomplish, and IoT as a bridge between software and the physical world.
 
@@ -55,8 +55,8 @@ My experience combines **professional work, academic research, technical trainin
 ## 🏆 Selected Highlights
 
 - **2nd Place — FICO Educational Analytics Challenge 2025** Collaborated on an AI/analytics solution for bank collection interactions. Our team developed the highest-scoring model among teams representing four participating universities.
-- **Entrepreneurship & Venture Development** Participated in business accelerators and venture development programs, developing and presenting original business concepts — including presenting a venture at the **National Museum of African American History and Culture**.
-- **Published Children's Book** Created and independently published a children's book, then built its supporting website and promotional materials and led outreach through pop-up events, libraries, and direct marketing — taking the project from creative concept to a public-facing product.
+- **Entrepreneurship & Venture Development** Participated in business accelerators and venture development programs, developing and presenting original business concepts, including presenting a venture at the **National Museum of African American History and Culture**.
+- **Published Children's Book** Created and independently published a children's book, then built its supporting website and promotional materials and led outreach through pop-up events, libraries, online and direct marketing, taking the project from creative concept to a public-facing product.
 - **Creative Entrepreneurship** Turned original artwork into a clothing brand, building its website and social presence while managing branding, marketing, promotion, and sales — taking the idea from initial design through launch and customer engagement.
 - **AI Startup Strategy & Development** Supported an early-stage AI startup across business strategy, technology positioning, web presence, and marketing, working across technical and operational needs as the venture developed.
 - **Dean's List — 2021** Recognized for academic achievement during my undergraduate studies.
@@ -87,7 +87,6 @@ I've explored entrepreneurship, visual art, writing, and music, and I'm interest
 
 I'm especially fascinated by what becomes possible when disciplines intersect — **AI with physical systems, data with real-world problems, technology with sustainability, and engineering with creativity**.
 
-I'm particularly interested in technologies that bring together **renewable energy, intelligent infrastructure, advanced agriculture, automation, and connected systems** to create more sustainable and capable ways of living.
 
 ## 🌱 What I'm Building Toward
 
